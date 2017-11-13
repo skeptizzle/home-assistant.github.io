@@ -29,7 +29,7 @@ automation:
 
 #### {% linkable_title Natural wake up light  %}
 
-_Note, Philips Hue and LIFX are currently the only light platforms that support transitions._
+_Note, Philips Hue, IKEA Tradfri and LIFX are currently the only light platforms that support transitions._
 
 ```yaml
 automation:
